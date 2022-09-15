@@ -1,0 +1,24 @@
+#muur {
+    width: 500px;
+    height: 300px;
+    background-color: #d9d9d9;
+}
+.steen {
+    background-color: orange;
+    width: 100px;
+    height: 25px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+.rij {
+    display: flex;
+}
+.rand {
+    margin-right: 0;
+}
+.kort {
+    width: 80px;
+}
+.gat {
+    background-color: #d9d9d9;
+}
